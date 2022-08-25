@@ -12,3 +12,4 @@
 /home/ferret/GIT/Squirrel-Processes/obj/Debug/net6.0/squirrel_processes.dll
 /home/ferret/GIT/Squirrel-Processes/obj/Debug/net6.0/ref/squirrel_processes.dll
 /home/ferret/GIT/Squirrel-Processes/obj/Debug/net6.0/squirrel_processes.pdb
+/home/ferret/GIT/Squirrel-Processes/obj/Debug/net6.0/squirrel_processes.csproj.AssemblyReference.cache

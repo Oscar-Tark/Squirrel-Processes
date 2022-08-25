@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\Scorpion-Console-Read-Write\consolereadwrite.csproj" />
+    <ProjectReference Include="..\Squirrel-Console-Read-Write\consolereadwrite.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

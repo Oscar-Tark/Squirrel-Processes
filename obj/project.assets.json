@@ -17,8 +17,8 @@
   "libraries": {
     "consolereadwrite/1.0.0": {
       "type": "project",
-      "path": "../Scorpion-Console-Read-Write/consolereadwrite.csproj",
-      "msbuildProject": "../Scorpion-Console-Read-Write/consolereadwrite.csproj"
+      "path": "../Squirrel-Console-Read-Write/consolereadwrite.csproj",
+      "msbuildProject": "../Squirrel-Console-Read-Write/consolereadwrite.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -51,8 +51,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/home/ferret/GIT/Scorpion-Console-Read-Write/consolereadwrite.csproj": {
-              "projectPath": "/home/ferret/GIT/Scorpion-Console-Read-Write/consolereadwrite.csproj"
+            "/home/ferret/GIT/Squirrel-Console-Read-Write/consolereadwrite.csproj": {
+              "projectPath": "/home/ferret/GIT/Squirrel-Console-Read-Write/consolereadwrite.csproj"
             }
           }
         }

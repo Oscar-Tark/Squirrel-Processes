@@ -4,14 +4,14 @@
     "/home/ferret/GIT/Squirrel-Processes/squirrel_processes.csproj": {}
   },
   "projects": {
-    "/home/ferret/GIT/Scorpion-Console-Read-Write/consolereadwrite.csproj": {
+    "/home/ferret/GIT/Squirrel-Console-Read-Write/consolereadwrite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ferret/GIT/Scorpion-Console-Read-Write/consolereadwrite.csproj",
+        "projectUniqueName": "/home/ferret/GIT/Squirrel-Console-Read-Write/consolereadwrite.csproj",
         "projectName": "consolereadwrite",
-        "projectPath": "/home/ferret/GIT/Scorpion-Console-Read-Write/consolereadwrite.csproj",
+        "projectPath": "/home/ferret/GIT/Squirrel-Console-Read-Write/consolereadwrite.csproj",
         "packagesPath": "/home/ferret/.nuget/packages/",
-        "outputPath": "/home/ferret/GIT/Scorpion-Console-Read-Write/obj/",
+        "outputPath": "/home/ferret/GIT/Squirrel-Console-Read-Write/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/ferret/.nuget/NuGet/NuGet.Config"
@@ -78,8 +78,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/ferret/GIT/Scorpion-Console-Read-Write/consolereadwrite.csproj": {
-                "projectPath": "/home/ferret/GIT/Scorpion-Console-Read-Write/consolereadwrite.csproj"
+              "/home/ferret/GIT/Squirrel-Console-Read-Write/consolereadwrite.csproj": {
+                "projectPath": "/home/ferret/GIT/Squirrel-Console-Read-Write/consolereadwrite.csproj"
               }
             }
           }
