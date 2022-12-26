@@ -1,8 +1,4 @@
-﻿using System;
-using System.Diagnostics;
-using System.Collections;
-using System.Collections.Generic;
-using System.Threading.Tasks;
+﻿using System.Diagnostics;
 
 namespace ScorpionProcesses
 {
@@ -113,6 +109,7 @@ namespace ScorpionProcesses
         {
             scorpion_process scp = getProcess(name);
             Get_stdout_async_task(scp.process);
+            return;
         }
 
         static async Task Get_stdout_async_task(Process process)
